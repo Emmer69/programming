@@ -1,1 +1,2 @@
-# programming
+Guruface is conducting a free webinar on Python for kids. Python will help your kids to think out of the box and encourages them to think creative. There is a golden opportunity for your kids to learn Python for free. Python is a flexible language that are used by different industries such as game development, data analysis and web development. Python will encourage your kids to think creatively and develop their problem-solving skill. 
+Join Now at: https://www.guruface.com/webinar/free-python-coding-classes-for-kids/416
